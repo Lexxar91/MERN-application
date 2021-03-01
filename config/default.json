@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Lokomotiv",
+  "mongoUri": "mongodb+srv://BelovDima:qwerty91@cluster0.fhosz.mongodb.net/link",
+  "baseUrl": "http://localhost:5000"
+}
